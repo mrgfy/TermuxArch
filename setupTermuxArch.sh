@@ -4,9 +4,9 @@
 # https://termuxarch.github.io/TermuxArch/CONTRIBUTORS Thank you for your help.  
 ################################################################################
 ## MRGFY PERSONAL EDIT #########################################################
-cp /data/data/com.termux/files/usr/bin/applets/tar /data/data/com.termux/files/usr/bin/applets/bsdtar
-cp /data/data/com.termux/files/usr/bin/applets/md5sum /data/data/com.termux/files/usr/bin/applets/
-cp /data/data/com.termux/files/usr/bin/applets/sha* /data/data/com.termux/files/usr/bin/applets/
+cp /data/data/com.termux/files/usr/bin/tar /data/data/com.termux/files/usr/bin/applets/bsdtar
+cp /data/data/com.termux/files/usr/bin/md5sum /data/data/com.termux/files/usr/bin/applets/
+cp /data/data/com.termux/files/usr/bin/sha* /data/data/com.termux/files/usr/bin/applets/
 ## END OF MRGFY PERSONAL EDIT ##################################################
 IFS=$'\n\t'
 set -Eeuo pipefail
